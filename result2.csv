@@ -1,0 +1,376 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673452650211,520,HomePage,200,OK,tidal_users 1-19,text,true,,110335,115,26,26,https://www.twitch.tv/,417,0,311
+1673452650454,282,HomePage,200,OK,tidal_users 1-22,text,true,,110334,115,26,26,https://www.twitch.tv/,198,0,142
+1673452650081,700,HomePage,200,OK,tidal_users 1-17,text,true,,110288,115,27,27,https://www.twitch.tv/,566,0,469
+1673452650012,826,HomePage,200,OK,tidal_users 1-16,text,true,,110335,115,28,28,https://www.twitch.tv/,617,0,534
+1673452650488,355,HomePage,200,OK,tidal_users 1-23,text,true,,110356,115,28,28,https://www.twitch.tv/,209,0,152
+1673452649606,1240,HomePage,200,OK,tidal_users 1-10,text,true,,110368,115,28,28,https://www.twitch.tv/,1023,0,917
+1673452650527,322,HomePage,200,OK,tidal_users 1-21,text,true,,110370,115,28,28,https://www.twitch.tv/,213,0,142
+1673452650500,352,HomePage,200,OK,tidal_users 1-20,text,true,,110295,115,28,28,https://www.twitch.tv/,230,0,170
+1673452649813,1039,HomePage,200,OK,tidal_users 1-13,text,true,,110319,115,28,28,https://www.twitch.tv/,813,0,718
+1673452649674,1179,HomePage,200,OK,tidal_users 1-11,text,true,,110327,115,28,28,https://www.twitch.tv/,950,0,849
+1673452649945,910,HomePage,200,OK,tidal_users 1-15,text,true,,110350,115,28,28,https://www.twitch.tv/,682,0,578
+1673452649879,981,HomePage,200,OK,tidal_users 1-14,text,true,,110326,115,28,28,https://www.twitch.tv/,748,0,644
+1673452649740,1131,HomePage,200,OK,tidal_users 1-12,text,true,,110303,115,28,28,https://www.twitch.tv/,889,0,790
+1673452650166,707,HomePage,200,OK,tidal_users 1-18,text,true,,110356,115,28,28,https://www.twitch.tv/,459,0,356
+1673452650559,329,HomePage,200,OK,tidal_users 1-24,text,true,,110311,115,28,28,https://www.twitch.tv/,208,0,142
+1673452649327,1560,HomePage,200,OK,tidal_users 1-1,text,true,,110334,115,28,28,https://www.twitch.tv/,1300,0,1194
+1673452649328,1563,HomePage,200,OK,tidal_users 1-4,text,true,,110347,115,28,28,https://www.twitch.tv/,1300,0,1195
+1673452649327,1573,HomePage,200,OK,tidal_users 1-3,text,true,,110335,115,28,28,https://www.twitch.tv/,1299,0,1195
+1673452649539,1363,HomePage,200,OK,tidal_users 1-9,text,true,,110341,115,28,28,https://www.twitch.tv/,1119,0,990
+1673452649473,1433,HomePage,200,OK,tidal_users 1-8,text,true,,110358,115,28,28,https://www.twitch.tv/,1186,0,1071
+1673452650850,200,browse page,200,OK,tidal_users 1-21,text,true,,109450,124,31,31,https://www.twitch.tv/directory,146,0,0
+1673452650873,181,browse page,200,OK,tidal_users 1-12,text,true,,109488,124,31,31,https://www.twitch.tv/directory,127,0,0
+1673452650874,180,browse page,200,OK,tidal_users 1-18,text,true,,109465,124,31,31,https://www.twitch.tv/directory,120,0,0
+1673452650889,169,browse page,200,OK,tidal_users 1-1,text,true,,109520,124,31,31,https://www.twitch.tv/directory,113,0,0
+1673452650892,171,browse page,200,OK,tidal_users 1-4,text,true,,109511,124,31,31,https://www.twitch.tv/directory,118,0,0
+1673452650903,169,browse page,200,OK,tidal_users 1-9,text,true,,109504,124,31,31,https://www.twitch.tv/directory,118,0,0
+1673452650902,171,browse page,200,OK,tidal_users 1-3,text,true,,109450,124,31,31,https://www.twitch.tv/directory,127,0,0
+1673452650907,181,browse page,200,OK,tidal_users 1-8,text,true,,109503,124,31,31,https://www.twitch.tv/directory,129,0,0
+1673452650856,233,browse page,200,OK,tidal_users 1-15,text,true,,109450,124,31,31,https://www.twitch.tv/directory,175,0,0
+1673452650853,243,browse page,200,OK,tidal_users 1-13,text,true,,109481,124,31,31,https://www.twitch.tv/directory,192,0,0
+1673452649407,1692,HomePage,200,OK,tidal_users 1-7,text,true,,110288,115,31,31,https://www.twitch.tv/,1218,0,1115
+1673452650891,223,browse page,200,OK,tidal_users 1-24,text,true,,109497,124,32,32,https://www.twitch.tv/directory,123,0,0
+1673452650845,284,browse page,200,OK,tidal_users 1-23,text,true,,109496,124,32,32,https://www.twitch.tv/directory,65,0,0
+1673452650838,303,browse page,200,OK,tidal_users 1-22,text,true,,109488,124,32,32,https://www.twitch.tv/directory,76,0,0
+1673452651055,90,about page,200,OK,tidal_users 1-18,text,true,,65471,126,32,32,https://www.twitch.tv/p/en/about/,57,0,0
+1673452650854,342,browse page,200,OK,tidal_users 1-11,text,true,,109495,124,33,33,https://www.twitch.tv/directory,186,0,0
+1673452651115,90,about page,200,OK,tidal_users 1-24,text,true,,65471,126,33,33,https://www.twitch.tv/p/en/about/,67,0,0
+1673452650764,446,HomePage,200,OK,tidal_users 1-27,text,true,,110311,115,33,33,https://www.twitch.tv/,252,0,136
+1673452651052,164,about page,200,OK,tidal_users 1-21,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,140,0,0
+1673452651131,86,about page,200,OK,tidal_users 1-23,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,58,0,0
+1673452651065,154,about page,200,OK,tidal_users 1-4,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,67,0,0
+1673452651089,133,about page,200,OK,tidal_users 1-8,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,126,0,0
+1673452651075,152,about page,200,OK,tidal_users 1-3,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,120,0,0
+1673452651143,85,about page,200,OK,tidal_users 1-22,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,66,0,0
+1673452650847,399,browse page,200,OK,tidal_users 1-10,text,true,,109518,124,34,34,https://www.twitch.tv/directory,180,0,0
+1673452651055,192,about page,200,OK,tidal_users 1-12,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,69,0,0
+1673452651059,190,about page,200,OK,tidal_users 1-1,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,66,0,0
+1673452651147,113,privacy policy page,200,OK,tidal_users 1-18,text,true,,67808,141,34,34,https://www.twitch.tv/p/en/legal/privacy-notice/,91,0,0
+1673452650684,580,HomePage,200,OK,tidal_users 1-26,text,true,,110319,115,34,34,https://www.twitch.tv/,361,0,184
+1673452649328,1936,HomePage,200,OK,tidal_users 1-5,text,true,,110326,115,34,34,https://www.twitch.tv/,1300,0,1227
+1673452651090,184,about page,200,OK,tidal_users 1-15,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,131,0,0
+1673452651098,178,about page,200,OK,tidal_users 1-13,text,true,,65471,126,34,34,https://www.twitch.tv/p/en/about/,176,0,0
+1673452651197,97,about page,200,OK,tidal_users 1-11,text,true,,65471,126,35,35,https://www.twitch.tv/p/en/about/,66,0,0
+1673452651100,196,browse page,200,OK,tidal_users 1-7,text,true,,109463,124,35,35,https://www.twitch.tv/directory,62,0,0
+1673452650839,455,browse page,200,OK,tidal_users 1-16,text,true,,109511,124,35,35,https://www.twitch.tv/directory,76,0,0
+1673452650869,445,browse page,200,OK,tidal_users 1-19,text,true,,109515,124,35,35,https://www.twitch.tv/directory,179,0,0
+1673452650925,394,HomePage,200,OK,tidal_users 1-29,text,true,,110333,115,35,35,https://www.twitch.tv/,231,0,171
+1673452651217,106,privacy policy page,200,OK,tidal_users 1-21,text,true,,67808,141,35,35,https://www.twitch.tv/p/en/legal/privacy-notice/,70,0,0
+1673452651073,255,about page,200,OK,tidal_users 1-9,text,true,,65471,126,35,35,https://www.twitch.tv/p/en/about/,128,0,0
+1673452650853,485,browse page,200,OK,tidal_users 1-20,text,true,,109450,124,35,35,https://www.twitch.tv/directory,242,0,0
+1673452651220,124,privacy policy page,200,OK,tidal_users 1-4,text,true,,67808,141,35,35,https://www.twitch.tv/p/en/legal/privacy-notice/,77,0,0
+1673452649342,2019,HomePage,200,OK,tidal_users 1-6,text,true,,110366,115,36,36,https://www.twitch.tv/,1286,0,1180
+1673452651223,139,privacy policy page,200,OK,tidal_users 1-8,text,true,,67808,141,36,36,https://www.twitch.tv/p/en/legal/privacy-notice/,84,0,0
+1673452651229,137,privacy policy page,200,OK,tidal_users 1-22,text,true,,67808,141,36,36,https://www.twitch.tv/p/en/legal/privacy-notice/,70,0,0
+1673452650949,417,HomePage,200,OK,tidal_users 1-30,text,true,,110356,115,36,36,https://www.twitch.tv/,196,0,134
+1673452651247,121,about page,200,OK,tidal_users 1-10,text,true,,65471,126,36,36,https://www.twitch.tv/p/en/about/,119,0,0
+1673452651228,142,privacy policy page,200,OK,tidal_users 1-3,text,true,,67808,141,36,36,https://www.twitch.tv/p/en/legal/privacy-notice/,135,0,0
+1673452651218,195,privacy policy page,200,OK,tidal_users 1-23,text,true,,67808,141,36,36,https://www.twitch.tv/p/en/legal/privacy-notice/,69,0,0
+1673452651206,214,privacy policy page,200,OK,tidal_users 1-24,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,77,0,0
+1673452651339,90,about page,200,OK,tidal_users 1-20,text,true,,65471,126,37,37,https://www.twitch.tv/p/en/about/,66,0,0
+1673452651275,157,privacy policy page,200,OK,tidal_users 1-15,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,113,0,0
+1673452651150,284,HomePage,200,OK,tidal_users 1-33,text,true,,110334,115,37,37,https://www.twitch.tv/,201,0,145
+1673452651249,191,privacy policy page,200,OK,tidal_users 1-1,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,84,0,0
+1673452651315,125,about page,200,OK,tidal_users 1-19,text,true,,65471,126,37,37,https://www.twitch.tv/p/en/about/,63,0,0
+1673452651265,176,browse page,200,OK,tidal_users 1-5,text,true,,109502,124,37,37,https://www.twitch.tv/directory,70,0,0
+1673452651297,145,about page,200,OK,tidal_users 1-7,text,true,,65471,126,37,37,https://www.twitch.tv/p/en/about/,72,0,0
+1673452651278,166,privacy policy page,200,OK,tidal_users 1-13,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,81,0,0
+1673452651295,151,privacy policy page,200,OK,tidal_users 1-11,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,69,0,0
+1673452651329,133,privacy policy page,200,OK,tidal_users 1-9,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,77,0,0
+1673452650631,843,HomePage,200,OK,tidal_users 1-25,text,true,,110302,115,37,37,https://www.twitch.tv/,404,0,225
+1673452651216,272,HomePage,200,OK,tidal_users 1-34,text,true,,110326,115,38,38,https://www.twitch.tv/,195,0,136
+1673452651369,120,privacy policy page,200,OK,tidal_users 1-10,text,true,,67808,141,38,38,https://www.twitch.tv/p/en/legal/privacy-notice/,75,0,0
+1673452651212,288,browse page,200,OK,tidal_users 1-27,text,true,,109524,124,38,38,https://www.twitch.tv/directory,65,0,0
+1673452651362,139,browse page,200,OK,tidal_users 1-6,text,true,,109481,124,38,38,https://www.twitch.tv/directory,69,0,0
+1673452651435,74,browse page,200,OK,tidal_users 1-33,text,true,,109512,124,38,38,https://www.twitch.tv/directory,59,0,0
+1673452651430,92,privacy policy page,200,OK,tidal_users 1-20,text,true,,67808,141,38,38,https://www.twitch.tv/p/en/legal/privacy-notice/,70,0,0
+1673452651286,265,HomePage,200,OK,tidal_users 1-35,text,true,,110350,115,39,39,https://www.twitch.tv/,185,0,131
+1673452651441,112,privacy policy page,200,OK,tidal_users 1-19,text,true,,67808,141,39,39,https://www.twitch.tv/p/en/legal/privacy-notice/,76,0,0
+1673452651248,308,privacy policy page,200,OK,tidal_users 1-12,text,true,,67808,141,39,39,https://www.twitch.tv/p/en/legal/privacy-notice/,85,0,0
+1673452651489,79,browse page,200,OK,tidal_users 1-34,text,true,,109489,124,39,39,https://www.twitch.tv/directory,58,0,0
+1673452651320,249,browse page,200,OK,tidal_users 1-29,text,true,,109458,124,39,39,https://www.twitch.tv/directory,129,0,0
+1673452650838,732,browse page,200,OK,tidal_users 1-17,text,true,,109504,124,39,39,https://www.twitch.tv/directory,63,0,0
+1673452651510,77,about page,200,OK,tidal_users 1-33,text,true,,65471,126,39,39,https://www.twitch.tv/p/en/about/,68,0,0
+1673452651444,154,privacy policy page,200,OK,tidal_users 1-7,text,true,,67808,141,39,39,https://www.twitch.tv/p/en/legal/privacy-notice/,81,0,0
+1673452651502,99,about page,200,OK,tidal_users 1-6,text,true,,65471,126,39,39,https://www.twitch.tv/p/en/about/,69,0,0
+1673452651265,336,browse page,200,OK,tidal_users 1-26,text,true,,109518,124,39,39,https://www.twitch.tv/directory,66,0,0
+1673452651262,354,careers page,200,OK,tidal_users 1-18,text,true,,40013,123,39,39,https://www.twitch.tv/jobs/en/,343,0,0
+1673452651442,178,about page,200,OK,tidal_users 1-5,text,true,,65471,126,39,39,https://www.twitch.tv/p/en/about/,111,0,0
+1673452651297,324,about page,200,OK,tidal_users 1-16,text,true,,65471,126,39,39,https://www.twitch.tv/p/en/about/,63,0,0
+1673452651552,76,browse page,200,OK,tidal_users 1-35,text,true,,109534,124,38,38,https://www.twitch.tv/directory,56,0,0
+1673452651367,284,browse page,200,OK,tidal_users 1-30,text,true,,109532,124,39,39,https://www.twitch.tv/directory,66,0,0
+1673452651588,72,privacy policy page,200,OK,tidal_users 1-33,text,true,,67808,141,39,39,https://www.twitch.tv/p/en/legal/privacy-notice/,67,0,0
+1673452651501,189,about page,200,OK,tidal_users 1-27,text,true,,65471,126,40,40,https://www.twitch.tv/p/en/about/,83,0,0
+1673452651569,121,about page,200,OK,tidal_users 1-34,text,true,,65471,126,40,40,https://www.twitch.tv/p/en/about/,61,0,0
+1673452651570,124,about page,200,OK,tidal_users 1-17,text,true,,65471,126,40,40,https://www.twitch.tv/p/en/about/,66,0,0
+1673452651420,274,HomePage,200,OK,tidal_users 1-37,text,true,,110311,115,40,40,https://www.twitch.tv/,194,0,131
+1673452651475,222,browse page,200,OK,tidal_users 1-25,text,true,,109488,124,40,40,https://www.twitch.tv/directory,77,0,0
+1673452651601,100,privacy policy page,200,OK,tidal_users 1-6,text,true,,67808,141,40,40,https://www.twitch.tv/p/en/legal/privacy-notice/,66,0,0
+1673452651622,105,privacy policy page,200,OK,tidal_users 1-16,text,true,,67808,141,40,40,https://www.twitch.tv/p/en/legal/privacy-notice/,77,0,0
+1673452651620,144,privacy policy page,200,OK,tidal_users 1-5,text,true,,67808,141,41,41,https://www.twitch.tv/p/en/legal/privacy-notice/,83,0,0
+1673452651695,80,browse page,200,OK,tidal_users 1-37,text,true,,109473,124,41,41,https://www.twitch.tv/directory,59,0,0
+1673452651691,87,privacy policy page,200,OK,tidal_users 1-34,text,true,,67808,141,41,41,https://www.twitch.tv/p/en/legal/privacy-notice/,73,0,0
+1673452651570,221,about page,200,OK,tidal_users 1-29,text,true,,65471,126,41,41,https://www.twitch.tv/p/en/about/,129,0,0
+1673452651630,167,about page,200,OK,tidal_users 1-35,text,true,,65471,126,41,41,https://www.twitch.tv/p/en/about/,57,0,0
+1673452651695,106,privacy policy page,200,OK,tidal_users 1-17,text,true,,67808,141,41,41,https://www.twitch.tv/p/en/legal/privacy-notice/,87,0,0
+1673452651354,454,HomePage,200,OK,tidal_users 1-36,text,true,,110326,115,41,41,https://www.twitch.tv/,199,0,138
+1673452651602,227,about page,200,OK,tidal_users 1-26,text,true,,65471,126,42,42,https://www.twitch.tv/p/en/about/,84,0,0
+1673452651652,180,about page,200,OK,tidal_users 1-30,text,true,,65471,126,42,42,https://www.twitch.tv/p/en/about/,79,0,0
+1673452651775,69,about page,200,OK,tidal_users 1-37,text,true,,65471,126,42,42,https://www.twitch.tv/p/en/about/,60,0,0
+1673452651414,431,careers page,200,OK,tidal_users 1-23,text,true,,40013,123,42,42,https://www.twitch.tv/jobs/en/,410,0,0
+1673452651697,151,about page,200,OK,tidal_users 1-25,text,true,,65471,126,41,41,https://www.twitch.tv/p/en/about/,131,0,0
+1673452651487,362,HomePage,200,OK,tidal_users 1-38,text,true,,110296,115,41,41,https://www.twitch.tv/,209,0,133
+1673452651554,296,HomePage,200,OK,tidal_users 1-39,text,true,,110335,115,41,41,https://www.twitch.tv/,192,0,132
+1673452650867,984,browse page,200,OK,tidal_users 1-14,text,true,,109518,124,41,41,https://www.twitch.tv/directory,174,0,0
+1673452651363,500,careers page,200,OK,tidal_users 1-8,text,true,,40013,123,41,41,https://www.twitch.tv/jobs/en/,484,0,0
+1673452650832,1035,HomePage,200,OK,tidal_users 1-28,text,true,,110355,115,40,40,https://www.twitch.tv/,690,0,634
+1673452651691,189,privacy policy page,200,OK,tidal_users 1-27,text,true,,67808,141,40,40,https://www.twitch.tv/p/en/legal/privacy-notice/,88,0,0
+1673452651443,438,careers page,200,OK,tidal_users 1-1,text,true,,40013,123,40,40,https://www.twitch.tv/jobs/en/,383,0,0
+1673452651324,560,careers page,200,OK,tidal_users 1-21,text,true,,40013,123,39,39,https://www.twitch.tv/jobs/en/,543,0,0
+1673452651798,138,privacy policy page,200,OK,tidal_users 1-35,text,true,,67808,141,39,39,https://www.twitch.tv/p/en/legal/privacy-notice/,70,0,0
+1673452651420,519,careers page,200,OK,tidal_users 1-24,text,true,,40013,123,39,39,https://www.twitch.tv/jobs/en/,446,0,0
+1673452651631,309,HomePage,200,OK,tidal_users 1-40,text,true,,110343,115,39,39,https://www.twitch.tv/,193,0,137
+1673452651558,396,careers page,200,OK,tidal_users 1-12,text,true,,40013,123,38,38,https://www.twitch.tv/jobs/en/,303,0,0
+1673452651371,590,careers page,200,OK,tidal_users 1-3,text,true,,40013,123,38,38,https://www.twitch.tv/jobs/en/,552,0,0
+1673452651809,158,browse page,200,OK,tidal_users 1-36,text,true,,109450,124,37,37,https://www.twitch.tv/directory,128,0,0
+1673452651689,283,HomePage,200,OK,tidal_users 1-41,text,true,,110335,115,37,37,https://www.twitch.tv/,206,0,151
+1673452651845,167,privacy policy page,200,OK,tidal_users 1-37,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,64,0,0
+1673452651751,262,HomePage,200,OK,tidal_users 1-42,text,true,,110295,115,37,37,https://www.twitch.tv/,183,0,127
+1673452651833,182,privacy policy page,200,OK,tidal_users 1-30,text,true,,67808,141,37,37,https://www.twitch.tv/p/en/legal/privacy-notice/,67,0,0
+1673452651851,169,browse page,200,OK,tidal_users 1-39,text,true,,109509,124,38,38,https://www.twitch.tv/directory,62,0,0
+1673452651792,231,privacy policy page,200,OK,tidal_users 1-29,text,true,,67808,141,38,38,https://www.twitch.tv/p/en/legal/privacy-notice/,96,0,0
+1673452651018,1014,HomePage,200,OK,tidal_users 1-31,text,true,,110361,115,38,38,https://www.twitch.tv/,723,0,665
+1673452651849,186,privacy policy page,200,OK,tidal_users 1-25,text,true,,67808,141,38,38,https://www.twitch.tv/p/en/legal/privacy-notice/,82,0,0
+1673452651973,76,browse page,200,OK,tidal_users 1-41,text,true,,109465,124,38,38,https://www.twitch.tv/directory,61,0,0
+1673452651849,207,browse page,200,OK,tidal_users 1-38,text,true,,109450,124,38,38,https://www.twitch.tv/directory,74,0,0
+1673452651447,625,careers page,200,OK,tidal_users 1-11,text,true,,40013,123,38,38,https://www.twitch.tv/jobs/en/,405,0,0
+1673452651968,112,about page,200,OK,tidal_users 1-36,text,true,,65471,126,37,37,https://www.twitch.tv/p/en/about/,72,0,0
+1673452651831,257,privacy policy page,200,OK,tidal_users 1-26,text,true,,67808,141,38,38,https://www.twitch.tv/p/en/legal/privacy-notice/,97,0,0
+1673452651464,666,careers page,200,OK,tidal_users 1-9,text,true,,40013,123,38,38,https://www.twitch.tv/jobs/en/,655,0,0
+1673452651367,765,careers page,200,OK,tidal_users 1-22,text,true,,40013,123,38,38,https://www.twitch.tv/jobs/en/,505,0,0
+1673452651345,793,careers page,200,OK,tidal_users 1-4,text,true,,40013,123,36,36,https://www.twitch.tv/jobs/en/,625,0,0
+1673452651728,411,careers page,200,OK,tidal_users 1-16,text,true,,40013,123,36,36,https://www.twitch.tv/jobs/en/,396,0,0
+1673452651599,553,careers page,200,OK,tidal_users 1-7,text,true,,40013,123,34,34,https://www.twitch.tv/jobs/en/,473,0,0
+1673452651490,665,careers page,200,OK,tidal_users 1-10,text,true,,40013,123,34,34,https://www.twitch.tv/jobs/en/,665,0,0
+1673452651702,453,careers page,200,OK,tidal_users 1-6,text,true,,40013,123,34,34,https://www.twitch.tv/jobs/en/,444,0,0
+1673452652050,113,about page,200,OK,tidal_users 1-41,text,true,,65471,126,32,32,https://www.twitch.tv/p/en/about/,58,0,0
+1673452651852,325,about page,200,OK,tidal_users 1-14,text,true,,65471,126,32,32,https://www.twitch.tv/p/en/about/,186,0,0
+1673452652021,157,about page,200,OK,tidal_users 1-39,text,true,,65471,126,32,32,https://www.twitch.tv/p/en/about/,132,0,0
+1673452651889,292,HomePage,200,OK,tidal_users 1-44,text,true,,110327,115,32,32,https://www.twitch.tv/,186,0,131
+1673452651554,645,careers page,200,OK,tidal_users 1-19,text,true,,40013,123,32,32,https://www.twitch.tv/jobs/en/,310,0,0
+1673452652014,186,browse page,200,OK,tidal_users 1-42,text,true,,109481,124,32,32,https://www.twitch.tv/directory,58,0,0
+1673452651944,258,browse page,200,OK,tidal_users 1-40,text,true,,109473,124,31,31,https://www.twitch.tv/directory,68,0,0
+1673452652081,121,privacy policy page,200,OK,tidal_users 1-36,text,true,,67808,141,31,31,https://www.twitch.tv/p/en/legal/privacy-notice/,63,0,0
+1673452652057,145,about page,200,OK,tidal_users 1-38,text,true,,65471,126,31,31,https://www.twitch.tv/p/en/about/,71,0,0
+1673452651937,342,careers page,200,OK,tidal_users 1-35,text,true,,40013,123,32,32,https://www.twitch.tv/jobs/en/,282,0,0
+1673452651445,836,careers page,200,OK,tidal_users 1-13,text,true,,40013,123,32,32,https://www.twitch.tv/jobs/en/,627,0,0
+1673452651881,413,careers page,200,OK,tidal_users 1-27,text,true,,40013,123,31,31,https://www.twitch.tv/jobs/en/,310,0,0
+1673452652012,347,careers page,200,OK,tidal_users 1-37,text,true,,40013,123,31,31,https://www.twitch.tv/jobs/en/,346,0,0
+1673452652164,197,privacy policy page,200,OK,tidal_users 1-41,text,true,,67808,141,30,30,https://www.twitch.tv/p/en/legal/privacy-notice/,133,0,0
+1673452651523,843,careers page,200,OK,tidal_users 1-20,text,true,,40013,123,30,30,https://www.twitch.tv/jobs/en/,624,0,0
+1673452651433,935,careers page,200,OK,tidal_users 1-15,text,true,,40013,123,30,30,https://www.twitch.tv/jobs/en/,444,0,0
+1673452652016,357,careers page,200,OK,tidal_users 1-30,text,true,,40013,123,28,28,https://www.twitch.tv/jobs/en/,313,0,0
+1673452652178,204,privacy policy page,200,OK,tidal_users 1-39,text,true,,67808,141,27,27,https://www.twitch.tv/p/en/legal/privacy-notice/,83,0,0
+1673452651867,517,browse page,200,OK,tidal_users 1-28,text,true,,109497,124,27,27,https://www.twitch.tv/directory,80,0,0
+1673452651779,613,careers page,200,OK,tidal_users 1-34,text,true,,40013,123,27,27,https://www.twitch.tv/jobs/en/,285,0,0
+1673452652025,383,careers page,200,OK,tidal_users 1-29,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,326,0,0
+1673452652018,400,HomePage,200,OK,tidal_users 1-46,text,true,,110296,115,25,25,https://www.twitch.tv/,185,0,126
+1673452652182,248,browse page,200,OK,tidal_users 1-44,text,true,,109512,124,26,26,https://www.twitch.tv/directory,70,0,0
+1673452652200,231,about page,200,OK,tidal_users 1-42,text,true,,65471,126,26,26,https://www.twitch.tv/p/en/about/,176,0,0
+1673452651765,674,careers page,200,OK,tidal_users 1-5,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,389,0,0
+1673452652203,245,about page,200,OK,tidal_users 1-40,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,137,0,0
+1673452652204,249,privacy policy page,200,OK,tidal_users 1-38,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,144,0,0
+1673452652090,376,HomePage,200,OK,tidal_users 1-47,text,true,,110334,115,25,25,https://www.twitch.tv/,211,0,133
+1673452651105,1367,HomePage,200,OK,tidal_users 1-32,text,true,,110288,115,25,25,https://www.twitch.tv/,1196,0,1130
+1673452652033,470,browse page,200,OK,tidal_users 1-31,text,true,,109489,124,26,26,https://www.twitch.tv/directory,133,0,0
+1673452652203,307,careers page,200,OK,tidal_users 1-36,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,292,0,0
+1673452652178,343,privacy policy page,200,OK,tidal_users 1-14,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,155,0,0
+1673452652431,98,privacy policy page,200,OK,tidal_users 1-42,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,73,0,0
+1673452652224,313,HomePage,200,OK,tidal_users 1-49,text,true,,110367,115,25,25,https://www.twitch.tv/,199,0,133
+1673452652287,267,HomePage,200,OK,tidal_users 1-50,text,true,,110319,115,25,25,https://www.twitch.tv/,189,0,131
+1673452651801,776,careers page,200,OK,tidal_users 1-17,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,345,0,0
+1673452651661,926,careers page,200,OK,tidal_users 1-33,text,true,,40013,123,25,25,https://www.twitch.tv/jobs/en/,489,0,0
+1673452652431,162,about page,200,OK,tidal_users 1-44,text,true,,65471,126,24,24,https://www.twitch.tv/p/en/about/,78,0,0
+1673452652419,175,browse page,200,OK,tidal_users 1-46,text,true,,109473,124,24,24,https://www.twitch.tv/directory,70,0,0
+1673452652089,509,careers page,200,OK,tidal_users 1-26,text,true,,40013,123,24,24,https://www.twitch.tv/jobs/en/,391,0,0
+1673452652355,271,HomePage,200,OK,tidal_users 1-51,text,true,,110335,115,23,23,https://www.twitch.tv/,188,0,133
+1673452652555,77,browse page,200,OK,tidal_users 1-50,text,true,,109521,124,23,23,https://www.twitch.tv/directory,57,0,0
+1673452649327,3305,HomePage,200,OK,tidal_users 1-2,text,true,,110288,115,23,23,https://www.twitch.tv/,1295,0,1214
+1673452652035,600,careers page,200,OK,tidal_users 1-25,text,true,,40013,123,23,23,https://www.twitch.tv/jobs/en/,322,0,0
+1673452651817,849,HomePage,200,OK,tidal_users 1-43,text,true,,110319,115,23,23,https://www.twitch.tv/,194,0,135
+1673452652362,305,careers page,200,OK,tidal_users 1-41,text,true,,40013,123,23,23,https://www.twitch.tv/jobs/en/,298,0,0
+1673452652449,230,privacy policy page,200,OK,tidal_users 1-40,text,true,,67808,141,22,22,https://www.twitch.tv/p/en/legal/privacy-notice/,106,0,0
+1673452652421,266,HomePage,200,OK,tidal_users 1-52,text,true,,110330,115,22,22,https://www.twitch.tv/,188,0,133
+1673452652384,304,about page,200,OK,tidal_users 1-28,text,true,,65471,126,22,22,https://www.twitch.tv/p/en/about/,89,0,0
+1673452652595,116,about page,200,OK,tidal_users 1-46,text,true,,65471,126,22,22,https://www.twitch.tv/p/en/about/,65,0,0
+1673452652472,239,browse page,200,OK,tidal_users 1-32,text,true,,109481,124,22,22,https://www.twitch.tv/directory,83,0,0
+1673452652633,121,about page,200,OK,tidal_users 1-50,text,true,,65471,126,23,23,https://www.twitch.tv/p/en/about/,62,0,0
+1673452652466,289,browse page,200,OK,tidal_users 1-47,text,true,,109525,124,24,24,https://www.twitch.tv/directory,76,0,0
+1673452652627,132,browse page,200,OK,tidal_users 1-51,text,true,,109504,124,24,24,https://www.twitch.tv/directory,55,0,0
+1673452652382,377,careers page,200,OK,tidal_users 1-39,text,true,,40013,123,24,24,https://www.twitch.tv/jobs/en/,321,0,0
+1673452652542,218,browse page,200,OK,tidal_users 1-49,text,true,,109527,124,24,24,https://www.twitch.tv/directory,56,0,0
+1673452652594,171,privacy policy page,200,OK,tidal_users 1-44,text,true,,67808,141,23,23,https://www.twitch.tv/p/en/legal/privacy-notice/,81,0,0
+1673452652688,78,browse page,200,OK,tidal_users 1-52,text,true,,109503,124,23,23,https://www.twitch.tv/directory,55,0,0
+1673452652490,282,HomePage,200,OK,tidal_users 1-53,text,true,,110334,115,23,23,https://www.twitch.tv/,197,0,142
+1673452652562,264,HomePage,200,OK,tidal_users 1-54,text,true,,110311,115,24,24,https://www.twitch.tv/,184,0,130
+1673452652712,124,privacy policy page,200,OK,tidal_users 1-46,text,true,,67808,141,24,24,https://www.twitch.tv/p/en/legal/privacy-notice/,69,0,0
+1673452652755,82,privacy policy page,200,OK,tidal_users 1-50,text,true,,67808,141,24,24,https://www.twitch.tv/p/en/legal/privacy-notice/,63,0,0
+1673452652504,350,about page,200,OK,tidal_users 1-31,text,true,,65471,126,24,24,https://www.twitch.tv/p/en/about/,128,0,0
+1673452652453,403,careers page,200,OK,tidal_users 1-38,text,true,,40013,123,24,24,https://www.twitch.tv/jobs/en/,331,0,0
+1673452652773,91,browse page,200,OK,tidal_users 1-53,text,true,,109464,124,23,23,https://www.twitch.tv/directory,70,0,0
+1673452652712,158,about page,200,OK,tidal_users 1-32,text,true,,65471,126,23,23,https://www.twitch.tv/p/en/about/,80,0,0
+1673452652759,119,about page,200,OK,tidal_users 1-51,text,true,,65471,126,23,23,https://www.twitch.tv/p/en/about/,84,0,0
+1673452652827,74,browse page,200,OK,tidal_users 1-54,text,true,,109503,124,24,24,https://www.twitch.tv/directory,54,0,0
+1673452652667,244,browse page,200,OK,tidal_users 1-43,text,true,,109504,124,24,24,https://www.twitch.tv/directory,71,0,0
+1673452652761,157,about page,200,OK,tidal_users 1-49,text,true,,65471,126,24,24,https://www.twitch.tv/p/en/about/,126,0,0
+1673452652766,174,about page,200,OK,tidal_users 1-52,text,true,,65471,126,24,24,https://www.twitch.tv/p/en/about/,62,0,0
+1673452652865,76,about page,200,OK,tidal_users 1-53,text,true,,65471,126,24,24,https://www.twitch.tv/p/en/about/,66,0,0
+1673452652902,70,about page,200,OK,tidal_users 1-54,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,59,0,0
+1673452652878,94,privacy policy page,200,OK,tidal_users 1-51,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,65,0,0
+1673452652689,283,privacy policy page,200,OK,tidal_users 1-28,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,113,0,0
+1673452652755,223,about page,200,OK,tidal_users 1-47,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,142,0,0
+1673452652731,266,HomePage,200,OK,tidal_users 1-56,text,true,,110347,115,25,25,https://www.twitch.tv/,187,0,132
+1673452652942,66,privacy policy page,200,OK,tidal_users 1-53,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,59,0,0
+1673452652638,372,HomePage,200,OK,tidal_users 1-55,text,true,,110334,115,25,25,https://www.twitch.tv/,250,0,139
+1673452652941,92,privacy policy page,200,OK,tidal_users 1-52,text,true,,67808,141,26,26,https://www.twitch.tv/p/en/legal/privacy-notice/,78,0,0
+1673452652634,404,browse page,200,OK,tidal_users 1-2,text,true,,109489,124,26,26,https://www.twitch.tv/directory,130,0,0
+1673452652870,173,privacy policy page,200,OK,tidal_users 1-32,text,true,,67808,141,26,26,https://www.twitch.tv/p/en/legal/privacy-notice/,91,0,0
+1673452652782,266,HomePage,200,OK,tidal_users 1-57,text,true,,110327,115,26,26,https://www.twitch.tv/,192,0,122
+1673452652972,81,privacy policy page,200,OK,tidal_users 1-54,text,true,,67808,141,26,26,https://www.twitch.tv/p/en/legal/privacy-notice/,73,0,0
+1673452652680,380,careers page,200,OK,tidal_users 1-40,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,317,0,0
+1673452652912,153,about page,200,OK,tidal_users 1-43,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,78,0,0
+1673452652998,76,browse page,200,OK,tidal_users 1-56,text,true,,109472,124,25,25,https://www.twitch.tv/directory,57,0,0
+1673452652821,254,HomePage,200,OK,tidal_users 1-58,text,true,,110318,115,25,25,https://www.twitch.tv/,175,0,121
+1673452652522,554,careers page,200,OK,tidal_users 1-14,text,true,,40013,123,25,25,https://www.twitch.tv/jobs/en/,393,0,0
+1673452651964,1113,HomePage,200,OK,tidal_users 1-45,text,true,,110288,115,25,25,https://www.twitch.tv/,753,0,697
+1673452652918,185,privacy policy page,200,OK,tidal_users 1-49,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,81,0,0
+1673452652156,970,HomePage,200,OK,tidal_users 1-48,text,true,,110364,115,25,25,https://www.twitch.tv/,690,0,635
+1673452653049,77,browse page,200,OK,tidal_users 1-57,text,true,,109450,124,25,25,https://www.twitch.tv/directory,59,0,0
+1673452653076,117,browse page,200,OK,tidal_users 1-58,text,true,,109481,124,26,26,https://www.twitch.tv/directory,58,0,0
+1673452653126,68,about page,200,OK,tidal_users 1-57,text,true,,65471,126,26,26,https://www.twitch.tv/p/en/about/,58,0,0
+1673452652837,362,careers page,200,OK,tidal_users 1-46,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,361,0,0
+1673452652855,351,privacy policy page,200,OK,tidal_users 1-31,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,119,0,0
+1673452652979,237,privacy policy page,200,OK,tidal_users 1-47,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,92,0,0
+1673452653074,144,about page,200,OK,tidal_users 1-56,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,56,0,0
+1673452653066,156,privacy policy page,200,OK,tidal_users 1-43,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,83,0,0
+1673452653011,216,browse page,200,OK,tidal_users 1-55,text,true,,109480,124,26,26,https://www.twitch.tv/directory,71,0,0
+1673452652962,276,HomePage,200,OK,tidal_users 1-60,text,true,,110288,115,26,26,https://www.twitch.tv/,200,0,119
+1673452652837,405,careers page,200,OK,tidal_users 1-50,text,true,,40013,123,26,26,https://www.twitch.tv/jobs/en/,388,0,0
+1673452652890,352,HomePage,200,OK,tidal_users 1-59,text,true,,110341,115,26,26,https://www.twitch.tv/,174,0,119
+1673452653195,75,privacy policy page,200,OK,tidal_users 1-57,text,true,,67808,141,25,25,https://www.twitch.tv/p/en/legal/privacy-notice/,63,0,0
+1673452653038,237,about page,200,OK,tidal_users 1-2,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,85,0,0
+1673452653194,82,about page,200,OK,tidal_users 1-58,text,true,,65471,126,25,25,https://www.twitch.tv/p/en/about/,59,0,0
+1673452652973,305,careers page,200,OK,tidal_users 1-51,text,true,,40013,123,25,25,https://www.twitch.tv/jobs/en/,298,0,0
+1673452652766,512,careers page,200,OK,tidal_users 1-44,text,true,,40013,123,25,25,https://www.twitch.tv/jobs/en/,458,0,0
+1673452653028,258,HomePage,200,OK,tidal_users 1-61,text,true,,110349,115,23,23,https://www.twitch.tv/,181,0,121
+1673452653219,85,privacy policy page,200,OK,tidal_users 1-56,text,true,,67808,141,24,24,https://www.twitch.tv/p/en/legal/privacy-notice/,66,0,0
+1673452653239,86,browse page,200,OK,tidal_users 1-60,text,true,,109504,124,24,24,https://www.twitch.tv/directory,66,0,0
+1673452653034,291,careers page,200,OK,tidal_users 1-52,text,true,,40013,123,24,24,https://www.twitch.tv/jobs/en/,291,0,0
+1673452653126,208,browse page,200,OK,tidal_users 1-48,text,true,,109489,124,23,23,https://www.twitch.tv/directory,70,0,0
+1673452652530,854,careers page,200,OK,tidal_users 1-42,text,true,,40013,123,24,24,https://www.twitch.tv/jobs/en/,292,0,0
+1673452653325,62,about page,200,OK,tidal_users 1-60,text,true,,65471,126,23,23,https://www.twitch.tv/p/en/about/,56,0,0
+1673452653277,135,privacy policy page,200,OK,tidal_users 1-58,text,true,,67808,141,23,23,https://www.twitch.tv/p/en/legal/privacy-notice/,74,0,0
+1673452653243,181,browse page,200,OK,tidal_users 1-59,text,true,,109450,124,24,24,https://www.twitch.tv/directory,87,0,0
+1673452653228,198,about page,200,OK,tidal_users 1-55,text,true,,65471,126,24,24,https://www.twitch.tv/p/en/about/,74,0,0
+1673452653044,388,careers page,200,OK,tidal_users 1-32,text,true,,40013,123,24,24,https://www.twitch.tv/jobs/en/,299,0,0
+1673452653104,352,careers page,200,OK,tidal_users 1-49,text,true,,40013,123,23,23,https://www.twitch.tv/jobs/en/,308,0,0
+1673452653286,170,browse page,200,OK,tidal_users 1-61,text,true,,109517,124,23,23,https://www.twitch.tv/directory,60,0,0
+1673452653160,297,HomePage,200,OK,tidal_users 1-63,text,true,,110288,115,23,23,https://www.twitch.tv/,180,0,121
+1673452653334,144,about page,200,OK,tidal_users 1-48,text,true,,65471,126,22,22,https://www.twitch.tv/p/en/about/,71,0,0
+1673452653078,410,browse page,200,OK,tidal_users 1-45,text,true,,109450,124,22,22,https://www.twitch.tv/directory,131,0,0
+1673452653094,394,HomePage,200,OK,tidal_users 1-62,text,true,,110327,115,22,22,https://www.twitch.tv/,180,0,123
+1673452653227,261,HomePage,200,OK,tidal_users 1-64,text,true,,110318,115,22,22,https://www.twitch.tv/,184,0,121
+1673452653387,110,privacy policy page,200,OK,tidal_users 1-60,text,true,,67808,141,23,23,https://www.twitch.tv/p/en/legal/privacy-notice/,104,0,0
+1673452653276,233,privacy policy page,200,OK,tidal_users 1-2,text,true,,67808,141,23,23,https://www.twitch.tv/p/en/legal/privacy-notice/,96,0,0
+1673452652973,544,careers page,200,OK,tidal_users 1-28,text,true,,40013,123,23,23,https://www.twitch.tv/jobs/en/,331,0,0
+1673452653009,514,careers page,200,OK,tidal_users 1-53,text,true,,40013,123,22,22,https://www.twitch.tv/jobs/en/,298,0,0
+1673452653425,114,about page,200,OK,tidal_users 1-59,text,true,,65471,126,21,21,https://www.twitch.tv/p/en/about/,79,0,0
+1673452653305,296,careers page,200,OK,tidal_users 1-56,text,true,,40013,123,22,22,https://www.twitch.tv/jobs/en/,289,0,0
+1673452653488,124,browse page,200,OK,tidal_users 1-62,text,true,,109502,124,21,21,https://www.twitch.tv/directory,61,0,0
+1673452653217,397,careers page,200,OK,tidal_users 1-47,text,true,,40013,123,21,21,https://www.twitch.tv/jobs/en/,297,0,0
+1673452653489,128,browse page,200,OK,tidal_users 1-64,text,true,,109527,124,20,20,https://www.twitch.tv/directory,56,0,0
+1673452653426,192,privacy policy page,200,OK,tidal_users 1-55,text,true,,67808,141,20,20,https://www.twitch.tv/p/en/legal/privacy-notice/,83,0,0
+1673452653222,417,careers page,200,OK,tidal_users 1-43,text,true,,40013,123,21,21,https://www.twitch.tv/jobs/en/,307,0,0
+1673452653540,102,privacy policy page,200,OK,tidal_users 1-59,text,true,,67808,141,20,20,https://www.twitch.tv/p/en/legal/privacy-notice/,71,0,0
+1673452653478,171,privacy policy page,200,OK,tidal_users 1-48,text,true,,67808,141,20,20,https://www.twitch.tv/p/en/legal/privacy-notice/,141,0,0
+1673452653271,388,careers page,200,OK,tidal_users 1-57,text,true,,40013,123,20,20,https://www.twitch.tv/jobs/en/,346,0,0
+1673452653457,206,browse page,200,OK,tidal_users 1-63,text,true,,109450,124,19,19,https://www.twitch.tv/directory,76,0,0
+1673452653360,308,HomePage,200,OK,tidal_users 1-66,text,true,,110334,115,19,19,https://www.twitch.tv/,184,0,128
+1673452653457,211,about page,200,OK,tidal_users 1-61,text,true,,65471,126,19,19,https://www.twitch.tv/p/en/about/,83,0,0
+1673452653207,467,careers page,200,OK,tidal_users 1-31,text,true,,40013,123,19,19,https://www.twitch.tv/jobs/en/,350,0,0
+1673452653425,261,HomePage,200,OK,tidal_users 1-67,text,true,,110372,115,18,18,https://www.twitch.tv/,186,0,127
+1673452653618,78,about page,200,OK,tidal_users 1-64,text,true,,65471,126,19,19,https://www.twitch.tv/p/en/about/,59,0,0
+1673452653413,301,careers page,200,OK,tidal_users 1-58,text,true,,40013,123,19,19,https://www.twitch.tv/jobs/en/,287,0,0
+1673452653612,104,about page,200,OK,tidal_users 1-62,text,true,,65471,126,18,18,https://www.twitch.tv/p/en/about/,64,0,0
+1673452653488,238,about page,200,OK,tidal_users 1-45,text,true,,65471,126,18,18,https://www.twitch.tv/p/en/about/,106,0,0
+1673452653292,435,HomePage,200,OK,tidal_users 1-65,text,true,,110358,115,18,18,https://www.twitch.tv/,183,0,122
+1673452653494,260,HomePage,200,OK,tidal_users 1-68,text,true,,110343,115,18,18,https://www.twitch.tv/,182,0,125
+1673452653669,94,privacy policy page,200,OK,tidal_users 1-61,text,true,,67808,141,19,19,https://www.twitch.tv/p/en/legal/privacy-notice/,66,0,0
+1673452653686,78,browse page,200,OK,tidal_users 1-67,text,true,,109512,124,19,19,https://www.twitch.tv/directory,61,0,0
+1673452653697,84,privacy policy page,200,OK,tidal_users 1-64,text,true,,67808,141,19,19,https://www.twitch.tv/p/en/legal/privacy-notice/,65,0,0
+1673452653497,284,careers page,200,OK,tidal_users 1-60,text,true,,40013,123,19,19,https://www.twitch.tv/jobs/en/,280,0,0
+1673452653559,249,HomePage,200,OK,tidal_users 1-69,text,true,,110379,115,18,18,https://www.twitch.tv/,172,0,119
+1673452653663,155,about page,200,OK,tidal_users 1-63,text,true,,65471,126,18,18,https://www.twitch.tv/p/en/about/,73,0,0
+1673452653716,108,privacy policy page,200,OK,tidal_users 1-62,text,true,,67808,141,18,18,https://www.twitch.tv/p/en/legal/privacy-notice/,67,0,0
+1673452653764,71,about page,200,OK,tidal_users 1-67,text,true,,65471,126,19,19,https://www.twitch.tv/p/en/about/,63,0,0
+1673452653755,88,browse page,200,OK,tidal_users 1-68,text,true,,109465,124,19,19,https://www.twitch.tv/directory,70,0,0
+1673452653728,120,browse page,200,OK,tidal_users 1-65,text,true,,109450,124,19,19,https://www.twitch.tv/directory,71,0,0
+1673452653668,180,browse page,200,OK,tidal_users 1-66,text,true,,109509,124,19,19,https://www.twitch.tv/directory,57,0,0
+1673452653509,363,careers page,200,OK,tidal_users 1-2,text,true,,40013,123,19,19,https://www.twitch.tv/jobs/en/,313,0,0
+1673452653627,251,HomePage,200,OK,tidal_users 1-70,text,true,,110332,115,18,18,https://www.twitch.tv/,174,0,121
+1673452653809,71,browse page,200,OK,tidal_users 1-69,text,true,,109488,124,18,18,https://www.twitch.tv/directory,54,0,0
+1673452653836,64,privacy policy page,200,OK,tidal_users 1-67,text,true,,67808,141,19,19,https://www.twitch.tv/p/en/legal/privacy-notice/,58,0,0
+1673452653848,82,about page,200,OK,tidal_users 1-65,text,true,,65471,126,19,19,https://www.twitch.tv/p/en/about/,61,0,0
+1673452653643,305,careers page,200,OK,tidal_users 1-59,text,true,,40013,123,19,19,https://www.twitch.tv/jobs/en/,285,0,0
+1673452653726,240,privacy policy page,200,OK,tidal_users 1-45,text,true,,67808,141,19,19,https://www.twitch.tv/p/en/legal/privacy-notice/,111,0,0
+1673452653843,143,about page,200,OK,tidal_users 1-68,text,true,,65471,126,19,19,https://www.twitch.tv/p/en/about/,134,0,0
+1673452653693,309,HomePage,200,OK,tidal_users 1-71,text,true,,110288,115,19,19,https://www.twitch.tv/,183,0,121
+1673452653880,123,about page,200,OK,tidal_users 1-69,text,true,,65471,126,19,19,https://www.twitch.tv/p/en/about/,63,0,0
+1673452653618,386,careers page,200,OK,tidal_users 1-55,text,true,,40013,123,19,19,https://www.twitch.tv/jobs/en/,319,0,0
+1673452653818,187,privacy policy page,200,OK,tidal_users 1-63,text,true,,67808,141,18,18,https://www.twitch.tv/p/en/legal/privacy-notice/,98,0,0
+1673452653879,131,browse page,200,OK,tidal_users 1-70,text,true,,109465,124,18,18,https://www.twitch.tv/directory,56,0,0
+1673452653848,163,about page,200,OK,tidal_users 1-66,text,true,,65471,126,18,18,https://www.twitch.tv/p/en/about/,71,0,0
+1673452653930,85,privacy policy page,200,OK,tidal_users 1-65,text,true,,67808,141,18,18,https://www.twitch.tv/p/en/legal/privacy-notice/,63,0,0
+1673452653650,367,careers page,200,OK,tidal_users 1-48,text,true,,40013,123,18,18,https://www.twitch.tv/jobs/en/,322,0,0
+1673452653986,76,privacy policy page,200,OK,tidal_users 1-68,text,true,,67808,141,17,17,https://www.twitch.tv/p/en/legal/privacy-notice/,68,0,0
+1673452653762,301,HomePage,200,OK,tidal_users 1-72,text,true,,110342,115,17,17,https://www.twitch.tv/,177,0,119
+1673452653764,311,careers page,200,OK,tidal_users 1-61,text,true,,40013,123,17,17,https://www.twitch.tv/jobs/en/,298,0,0
+1673452654003,130,privacy policy page,200,OK,tidal_users 1-69,text,true,,67808,141,16,16,https://www.twitch.tv/p/en/legal/privacy-notice/,67,0,0
+1673452654010,123,about page,200,OK,tidal_users 1-70,text,true,,65471,126,16,16,https://www.twitch.tv/p/en/about/,61,0,0
+1673452653782,352,careers page,200,OK,tidal_users 1-64,text,true,,40013,123,16,16,https://www.twitch.tv/jobs/en/,293,0,0
+1673452654003,133,browse page,200,OK,tidal_users 1-71,text,true,,109510,124,15,15,https://www.twitch.tv/directory,55,0,0
+1673452653901,286,careers page,200,OK,tidal_users 1-67,text,true,,40013,123,15,15,https://www.twitch.tv/jobs/en/,284,0,0
+1673452653894,295,HomePage,200,OK,tidal_users 1-74,text,true,,110350,115,14,14,https://www.twitch.tv/,180,0,122
+1673452653965,255,HomePage,200,OK,tidal_users 1-75,text,true,,110319,115,14,14,https://www.twitch.tv/,179,0,124
+1673452654012,216,privacy policy page,200,OK,tidal_users 1-66,text,true,,67808,141,14,14,https://www.twitch.tv/p/en/legal/privacy-notice/,126,0,0
+1673452653053,1176,careers page,200,OK,tidal_users 1-54,text,true,,40013,123,14,14,https://www.twitch.tv/jobs/en/,956,0,0
+1673452654134,102,privacy policy page,200,OK,tidal_users 1-70,text,true,,67808,141,13,13,https://www.twitch.tv/p/en/legal/privacy-notice/,72,0,0
+1673452654136,109,about page,200,OK,tidal_users 1-71,text,true,,65471,126,13,13,https://www.twitch.tv/p/en/about/,66,0,0
+1673452653829,419,HomePage,200,OK,tidal_users 1-73,text,true,,110351,115,13,13,https://www.twitch.tv/,173,0,119
+1673452654063,186,browse page,200,OK,tidal_users 1-72,text,true,,109450,124,13,13,https://www.twitch.tv/directory,71,0,0
+1673452654220,74,browse page,200,OK,tidal_users 1-75,text,true,,109505,124,13,13,https://www.twitch.tv/directory,57,0,0
+1673452654249,73,browse page,200,OK,tidal_users 1-73,text,true,,109472,124,13,13,https://www.twitch.tv/directory,53,0,0
+1673452654016,307,careers page,200,OK,tidal_users 1-65,text,true,,40013,123,13,13,https://www.twitch.tv/jobs/en/,297,0,0
+1673452653966,358,careers page,200,OK,tidal_users 1-45,text,true,,40013,123,12,12,https://www.twitch.tv/jobs/en/,309,0,0
+1673452654062,289,careers page,200,OK,tidal_users 1-68,text,true,,40013,123,11,11,https://www.twitch.tv/jobs/en/,287,0,0
+1673452654006,350,careers page,200,OK,tidal_users 1-63,text,true,,40013,123,10,10,https://www.twitch.tv/jobs/en/,312,0,0
+1673452654245,115,privacy policy page,200,OK,tidal_users 1-71,text,true,,67808,141,9,9,https://www.twitch.tv/p/en/legal/privacy-notice/,72,0,0
+1673452654189,177,browse page,200,OK,tidal_users 1-74,text,true,,109509,124,9,9,https://www.twitch.tv/directory,57,0,0
+1673452654294,81,about page,200,OK,tidal_users 1-75,text,true,,65471,126,9,9,https://www.twitch.tv/p/en/about/,75,0,0
+1673452654249,127,about page,200,OK,tidal_users 1-72,text,true,,65471,126,9,9,https://www.twitch.tv/p/en/about/,69,0,0
+1673452654323,80,about page,200,OK,tidal_users 1-73,text,true,,65471,126,9,9,https://www.twitch.tv/p/en/about/,58,0,0
+1673452654376,66,privacy policy page,200,OK,tidal_users 1-75,text,true,,67808,141,9,9,https://www.twitch.tv/p/en/legal/privacy-notice/,60,0,0
+1673452653825,624,careers page,200,OK,tidal_users 1-62,text,true,,40013,123,9,9,https://www.twitch.tv/jobs/en/,610,0,0
+1673452654133,325,careers page,200,OK,tidal_users 1-69,text,true,,40013,123,8,8,https://www.twitch.tv/jobs/en/,315,0,0
+1673452654404,86,privacy policy page,200,OK,tidal_users 1-73,text,true,,67808,141,7,7,https://www.twitch.tv/p/en/legal/privacy-notice/,63,0,0
+1673452654367,125,about page,200,OK,tidal_users 1-74,text,true,,65471,126,7,7,https://www.twitch.tv/p/en/about/,69,0,0
+1673452654376,133,privacy policy page,200,OK,tidal_users 1-72,text,true,,67808,141,7,7,https://www.twitch.tv/p/en/legal/privacy-notice/,75,0,0
+1673452654237,296,careers page,200,OK,tidal_users 1-70,text,true,,40013,123,7,7,https://www.twitch.tv/jobs/en/,285,0,0
+1673452654228,358,careers page,200,OK,tidal_users 1-66,text,true,,40013,123,6,6,https://www.twitch.tv/jobs/en/,303,0,0
+1673452654493,123,privacy policy page,200,OK,tidal_users 1-74,text,true,,67808,141,5,5,https://www.twitch.tv/p/en/legal/privacy-notice/,68,0,0
+1673452654361,315,careers page,200,OK,tidal_users 1-71,text,true,,40013,123,5,5,https://www.twitch.tv/jobs/en/,299,0,0
+1673452654443,287,careers page,200,OK,tidal_users 1-75,text,true,,40013,123,4,4,https://www.twitch.tv/jobs/en/,283,0,0
+1673452654490,296,careers page,200,OK,tidal_users 1-73,text,true,,40013,123,3,3,https://www.twitch.tv/jobs/en/,285,0,0
+1673452654509,322,careers page,200,OK,tidal_users 1-72,text,true,,40013,123,2,2,https://www.twitch.tv/jobs/en/,300,0,0
+1673452654616,324,careers page,200,OK,tidal_users 1-74,text,true,,40013,123,1,1,https://www.twitch.tv/jobs/en/,303,0,0
